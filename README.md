@@ -88,9 +88,3 @@ python uvicorn_runner.py
 ## License
 
 MIT License
-
-***
-
-You can copy-paste this directly to your `README.md`! It’s structured to be beginner-friendly but covers all the technical detail a deployer needs.
-
-[1](https://github.com/shriekdj/fastapi_deploy_template)
